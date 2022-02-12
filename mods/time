@@ -1,0 +1,7 @@
+elements.time = {
+    color: "#b70d0e",
+    behavior: behaviors.GAS,
+    category: "gases",
+    state: "gas",
+    density: 10,
+};
